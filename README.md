@@ -3,7 +3,7 @@
 - https://drive.google.com/drive/folders/1fJqSzmhvTEyoxcmmSIMIeeI84DjKf019
 - guide if needed:   https://www.youtube.com/watch?v=SXWryKJrPnI
 # intall TexasInstall plugin (portF and another peripherals simulation )
-- https://drive.google.com/drive/folders/14MHNpBH9e_byTBpl6_07i3jjpYnLoFV-
+- https://drive.google.com/file/d/1x9SsQDy3Embl9Ow6WK59KLF-LbuC5nuO/view?usp=sharing
 - notes:
   - use keil_v5 as path not keil
   - pCM4 -dLaunchPadDLL
