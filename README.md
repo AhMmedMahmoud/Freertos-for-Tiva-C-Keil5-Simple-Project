@@ -7,6 +7,6 @@
 - notes:
   - use keil_v5 as path not keil
   - pCM4 -dLaunchPadDLL
-   ![image](https://github.com/AhMmedMahmoud/Freertos-for-Tiva-C-Keil5-Simple-Project/assets/104006521/2c3d74cb-e148-4bcd-bba5-7de79d34f6b4)
+  - ![image](https://github.com/AhMmedMahmoud/Freertos-for-Tiva-C-Keil5-Simple-Project/assets/104006521/2c3d74cb-e148-4bcd-bba5-7de79d34f6b4)
 
 - guide if needed:   https://www.youtube.com/watch?v=lCaZP0JPl4w&list=PLR9Db0Xmncr2DJfKxzA76ih8vJsy2tE52&index=2
