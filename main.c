@@ -22,7 +22,7 @@ void port_init(uint8_t _port)
 {
 	if( (_port == PORT_A) || (_port == PORT_B) || (_port == PORT_C) || (_port == PORT_D) || (_port == PORT_E) || (_port == PORT_F) )
 	{
-		/* enable clock for port F */
+		/* enable clock for port */
 		SYSCTL_RCGCGPIO_R |= _port;  
 
 		/* wait until enable clock is done */
